@@ -1,7 +1,0 @@
-HTML
-Moved back the content that was missing from div with slider class. ln 36.
-Placed img class=logo back inside of header-container class div. ln 11.
-
-CSS
-Gave footer a width of 100%.
-Gave .footer-bottomBar 100% width in all @media
